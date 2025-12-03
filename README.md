@@ -53,17 +53,19 @@ plt.plot(t,s)
 ```   
 
 Output Waveform    
-<img width="676" height="514" alt="image" src="https://github.com/user-attachments/assets/18809402-3e13-47ff-99d3-7887b7895675" />
+<img width="702" height="513" alt="Screenshot 2025-12-03 144036" src="https://github.com/user-attachments/assets/bbde8c85-b7ef-4cd3-a74c-224ff759f88d" />
+
 
 
 Tabular Column
 
-![WhatsApp Image 2025-11-29 at 08 24 28_19479784](https://github.com/user-attachments/assets/ca370fdb-2c1a-4505-80a8-02f1f76eae80)
+![WhatsApp Image 2025-12-03 at 14 39 00_e4a28d00](https://github.com/user-attachments/assets/8b56d313-b232-49fb-b751-cde80d971164)
+
 
 
 Calculation
 
-![WhatsApp Image 2025-11-29 at 08 42 15_7cb6ea13](https://github.com/user-attachments/assets/27710524-dbe5-4970-ad13-0c56947e9739)
+![WhatsApp Image 2025-12-03 at 14 39 11_e0c86325](https://github.com/user-attachments/assets/a4044fcb-62f2-4da6-85d6-feb01fb38843)
 
 
 
